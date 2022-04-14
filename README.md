@@ -2,7 +2,7 @@
 <p>
 
 <p align="center">
-<p align="center"><a href="https://t.me/hnyrobo"><img src="https://te.legra.ph/file/12c4b71de20e58a3c31a4.jpg"></a></p>
+<p align="center"><a href="https://t.me/hnyrobo"><img src="https://telegra.ph/file/72cd9c842ba722dc7aef2.jpg"></a></p>
 
 Telegram bot for streaming music and video on telegram by the help of Telegram VideoChat Feature, 
 Powered by <a href="https://github.com/pytgcalls/pytgcalls">PyTgCalls</a>
@@ -40,10 +40,10 @@ and <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
 - `/end` - stop music play
 
 <h2 align="center"> Deploy To Heroku </h2>
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/hnynaira/hnymusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/berlinBaap/BERLIN-MUSIC"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
 
 ### Special Credits 💖
-- [𝐇𝐍𝐘 𝐑𝐎𝐁𝐎](https://t.me/HNYOP): Developer
+- [𝐇𝐍𝐘](https://t.me/HNYOP): Developer
 
 ### Updates 🎑
 <a href="https://t.me/hnyrobo"><img src="https://img.shields.io/badge/-hnyrobo-blue.svg?style=for-the-badge&logo=Telegram"></a>
